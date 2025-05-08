@@ -6,6 +6,14 @@ Este proyecto busca predecir la evolución de la **Tasa de Fertilidad Total (TFR
 
 ---
 
+
+## 🗃️ Base de datos
+https://population.un.org/dataportal/home?df=cc69c83b-2408-47e8-b594-2000daae1fbd
+
+
+---
+
+
 ## 📊 Descripción del proyecto
 
 - Se utilizaron datos demográficos anuales desde 1950 hasta 2023, incluyendo población, esperanza de vida, tasa de natalidad, edad media de maternidad, entre otros indicadores.
