@@ -25,4 +25,6 @@ Este proyecto busca predecir la evolución de la **Tasa de Fertilidad Total (TFR
 - Jupyter Notebook
 - Flourish (para mapas interactivos)
 
+# Presentación 
+https://www.canva.com/design/DAGmmSbgkww/V5tc06edauk1Gy18GvtRQw/edit?utm_content=DAGmmSbgkww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
