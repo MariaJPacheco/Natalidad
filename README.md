@@ -2,7 +2,7 @@
 
 # 🌍 Predicción Global de la Tasa de Fertilidad con Machine Learning
 
-Este proyecto busca predecir la evolución de la **Tasa de Fertilidad Total (TFR)** por país, utilizando datos demográficos históricos y proyectados. El objetivo es identificar tendencias globales y posibles **riesgos de baja fertilidad** futura, comparando los resultados con las predicciones oficiales de la ONU.
+Este proyecto busca predecir la evolución de la **Tasa de Fertilidad Total (TFR)** por país hasta el año 2100, utilizando datos demográficos históricos y proyectados. El objetivo es identificar tendencias globales y posibles **riesgos de baja fertilidad** futura, comparando los resultados con las predicciones oficiales de la ONU.
 
 ---
 
